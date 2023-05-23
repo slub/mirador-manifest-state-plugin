@@ -5,7 +5,7 @@
 `mirador-manifest-state-plugin` is a [Mirador 3](https://github.com/projectmirador/mirador) plugin that adds a notification to the manifest window top bar when the corrisponding manifest is removed from the catalog. This can happen for eample when a user removes a iiif resource which wasn't fetched properly.
 
 ## Installing `mirador-manifest-state-plugin
-`mirador-manifest-state-plugin` requires an instance of Mirador 3. This package is not part of the `npmjs registry`, so to install the package run `npm i https://github.com/slub/mirador-manifest-state-plugin`. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application. See the [demo's index.js](https://github.com/slub/mirador-manifest-state-plugin/blob/main/demo/src/index.js) for an example of importing the `mirador-manifest-state-plugin`.
+`mirador-manifest-state-plugin` requires an instance of Mirador 3. See the [Mirador wiki](https://github.com/ProjectMirador/mirador/wiki) for examples of embedding Mirador within an application. See the [demo's index.js](https://github.com/slub/mirador-manifest-state-plugin/blob/main/demo/src/index.js) for an example of importing the `mirador-manifest-state-plugin`.
 
 ## Credits
 ### NFDI4Culture
